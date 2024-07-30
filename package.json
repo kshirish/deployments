@@ -4,7 +4,8 @@
   "description": "",
   "private": true,
   "scripts": {
-    "build": "esbuild src/index.jsx --minify --bundle --outdir=public/build --loader:.js=jsx"
+    "build": "esbuild src/index.jsx --minify --bundle --outdir=public/build --loader:.js=jsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "react": "^18.3.1",
