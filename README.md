@@ -4,3 +4,4 @@
 2. [Vercel](https://deployments-lemon.vercel.app/)
 3. [Netlify](https://main--meek-sprinkles-8b0cec.netlify.app/)
 4. [Cloudflare](https://deployments-7yi.pages.dev/)
+5. [Render](https://deployments-ua2p.onrender.com/)
